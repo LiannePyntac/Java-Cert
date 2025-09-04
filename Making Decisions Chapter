@@ -1,0 +1,12 @@
+OCP Exam covered in this cahpter
+
+Controlling Program Flow
+
+- Create program flow control constructs including if/else, switch statemetns and expressions, loops and break and continue statements
+
+Using Object Oriented Concepts in Java
+
+- Implement inheritance, including abstract and sealed types as well as record classes Override methods, including that of the Object Class. Implement Polymorphism 
+and differentiate between object type and reference type. Perform reference type and casting identify obejct types using the instanceof operator, and pattern matching 
+with the instanceof operator and the switch construct
+
