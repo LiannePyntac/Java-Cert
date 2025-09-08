@@ -1,0 +1,12 @@
+Handling Data, Time, Text, Numeric and Boolean Values
+
+- use primitives and wrapper classes. Evaluate artihmetic and boolean expressions, using MAth API and by applying precedence rules, type conversions and casting
+
+- Manipulate text, including text blocks, using String and StringBuilder Classes
+- Manipulate date, time, duration, period, instant and time-zone objects including daylight saving time using Date-Time API
+
+Working with Arrays and Collections
+- Create array Lists, Set, Map and Deque Collections and add, remove, update, retrieve and sort their elements
+
+
+
